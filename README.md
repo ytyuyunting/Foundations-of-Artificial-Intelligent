@@ -20,4 +20,4 @@ any two adjacent cells along that path.
 
 3. RipeApe  pharmacy  is  developing  a  self-service  automated  system  to  alert  customers  about potential drug interactions for both prescription and over-the-counter drugs. Many medications should not be taken together or should not be taken if a patient has certain symptoms and allergies. Evaluating all the criteria for whether a patient can take a particular medication requires the patient's medical history and expert knowledge from a health care provider. The system, however, can provide an instant guideline to keep patients informed and minimize the risks. 
 
-You will use first-order logic resolutionto solve this proble
+You will use first-order logic resolutionto solve this problem.
